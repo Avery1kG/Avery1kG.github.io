@@ -1,0 +1,34 @@
+---
+title: "My Name"       # the title of the index page
+about:
+  # template types
+  #template: jolla
+  template: trestles
+  #template: broadside
+  # image details
+  image: files/profile-pic.jpg
+  image-width: 20em            # to adjust size
+  image-shape: round           # to make round
+  
+  links:
+    # add others
+    - icon: linkedin
+      href: https://www.linkedin.com/school/claremont-mckenna-college/posts/?feedView=all
+    - icon: twitter-x
+      href: https://x.com/CMCnews
+
+---
+
+I am a ... blah blah
+
+## Education
+
+Institution | City, State
+B.A in Degree | start - finish
+
+## Experience
+
+Organization A | Title | start - finish
+
+Organization b | Title | start - finish
+
