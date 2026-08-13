@@ -19,16 +19,16 @@ about:
 
 ---
 
-I am  ... blah blah
+I am a current undergraduate student at Cal State LA majoring in Psychology with a passion for the subject. After I finish my undergraduate program, I would like to enter my Master's program majoring in forensic psychology.
 
 ## Education
 
-Institution | City, State
-B.A in Degree | start - finish
+California State University, Los Angeles | Los Angeles, California
+B.A in Degree | August 2024 - Present
 
 ## Experience
 
-Organization A | Title | start - finish
+Bullwinkle's Family Fun Center | Kitchen Member | December 2024 - Present
 
 Organization b | Title | start - finish
 
