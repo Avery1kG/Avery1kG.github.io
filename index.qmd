@@ -1,5 +1,5 @@
 ---
-title: "My Name"       # the title of the index page
+title: "Avery Gomes"       # the title of the index page
 about:
   # template types
   #template: jolla
@@ -19,7 +19,7 @@ about:
 
 ---
 
-I am a ... blah blah
+I am  ... blah blah
 
 ## Education
 
