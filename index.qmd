@@ -6,16 +6,12 @@ about:
   template: trestles
   #template: broadside
   # image details
-  image: files/profile-pic.jpg
+  image: images/profile-pic.jpeg
   image-width: 20em            # to adjust size
   image-shape: round           # to make round
   
-  links:
+
     # add others
-    - icon: linkedin
-      href: https://www.linkedin.com/school/claremont-mckenna-college/posts/?feedView=all
-    - icon: twitter-x
-      href: https://x.com/CMCnews
 
 ---
 
@@ -30,5 +26,5 @@ B.A in Degree | August 2024 - Present
 
 Bullwinkle's Family Fun Center | Kitchen Member | December 2024 - Present
 
-Organization b | Title | start - finish
+Cognition and Data Visualization Lab | Research Assistant | June 2026 - Present
 
